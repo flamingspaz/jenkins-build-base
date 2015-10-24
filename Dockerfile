@@ -1,7 +1,7 @@
 ################################################################################
-# jenkins-build-base:1.0.1
-# Date: 10/7/2015
-# Docker Version: 1.8.2.0~trusty
+# jenkins-build-base: 1.0.2
+# Date: 10/23/2015
+# Docker Version: 1.8.3.0~trusty
 #
 # Description:
 # Base build container for jenkins. Comes packaged with just git and docker.
@@ -10,7 +10,7 @@
 FROM ubuntu:14.04
 MAINTAINER Bob Killen / killen.bob@gmail.com / @mrbobbytables
 
-ENV VERSION_DOCKER=1.8.2-0~trusty               \
+ENV VERSION_DOCKER=1.8.3-0~trusty               \
     JAVA_HOME=/usr/lib/jvm/java-8-oracle        \
     DERBY_HOME=/usr/lib/jvm/java-8-oracle/db    \
     J2SDKDIR=/usr/lib/jvm/java-8-oracle         \

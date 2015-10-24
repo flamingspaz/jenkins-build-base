@@ -4,8 +4,8 @@ Ubuntu based jenkins build slave with docker preinstalled.
 
 ##### Version Information:
 
-**Container Release:** 1.0.1
-**Docker:** 1.8.2-0~trusty
+* **Container Release:** 1.0.2
+* **Docker:** 1.8.3-0~trusty
 
 
 
