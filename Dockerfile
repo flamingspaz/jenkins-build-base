@@ -10,7 +10,7 @@
 FROM ubuntu:14.04
 MAINTAINER Bob Killen / killen.bob@gmail.com / @mrbobbytables
 
-ENV VERSION_DOCKER=1.9.1-0~trusty               \
+ENV VERSION_DOCKER=1.12.2-0~trusty               \
     JAVA_HOME=/usr/lib/jvm/java-8-oracle        \
     DERBY_HOME=/usr/lib/jvm/java-8-oracle/db    \
     J2SDKDIR=/usr/lib/jvm/java-8-oracle         \
